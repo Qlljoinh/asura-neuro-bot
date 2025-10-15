@@ -39,3 +39,5 @@ cp .env.example .env
 
 # Запускаем бота
 python bot.py
+```
+## Обязательно запустите Redis-x64-3.0.504 -> redis-server.exe
